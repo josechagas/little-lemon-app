@@ -11,8 +11,6 @@ By the end of this course, you’ll be able to:
  
 - Utilize a range of different approaches for building UI with Swift 
 - Build a basic UI with the Swift Interface Builder 
-- Create and control UI views with the UIKit framework 
-- Create simple applications with the UIKit framework 
 - Build interfaces using the SwiftUI framework 
 - Utilize lists and forms in SwiftUI in order to build frameworks 
 - Organize UI with the use of containers 
