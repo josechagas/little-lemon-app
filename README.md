@@ -1,7 +1,7 @@
 
 ## Little Lemon app
 
-Final project assessment of the course **Create the User Interface with SwiftUI** offered on **Coursera**, created by **Meta**.
+Final project assessment of the course **Create the User Interface with SwiftUI** available on **Coursera**, created by **Meta**.
 
 ## Informations about the course
 
